@@ -1,9 +1,9 @@
 {
-    "name": "aklump/local-timezone",
+    "name": "aklump\/local-timezone",
     "description": "Get the local timezone from the system.",
     "autoload": {
         "psr-4": {
-            "AKlump\\LocalTimezone\\": "src/"
+            "AKlump\\LocalTimezone\\": "src\/"
         }
     },
     "authors": [
@@ -13,5 +13,7 @@
         }
     ],
     "require": [],
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "homepage": "https:\/\/github.com\/aklump\/local_timezone",
+    "version": "0.0.1"
 }
