@@ -1,0 +1,17 @@
+{
+    "name": "aklump/local-timezone",
+    "description": "Get the local timezone from the system.",
+    "autoload": {
+        "psr-4": {
+            "AKlump\\LocalTimezone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aaron Klump",
+            "email": "sourcecode@intheloftstudios.com"
+        }
+    ],
+    "require": [],
+    "license": "BSD-3-Clause"
+}
