@@ -10,4 +10,4 @@ push_develop: no
 push_master: yes
 push_tags: yes
 vesion_file: composer.json
-version: 0.0.1
+version: 0.0.2
